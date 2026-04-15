@@ -66,7 +66,7 @@ technological issues that arise during the course.
 {% endif %}
 
 
-{% if site.helpers %}
+{% if site.admin %}
 
 ## Administrators
 
